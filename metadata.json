@@ -1,0 +1,6 @@
+{
+  "name": "DENTS DS",
+  "description": "Software integral de gestión odontológica en la nube para clínicas y consultorios dentales: historias clínicas, odontograma interactivo, agenda de citas, presupuestos, consentimientos con firma digital, cefalometría, endodoncia y portal del paciente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
